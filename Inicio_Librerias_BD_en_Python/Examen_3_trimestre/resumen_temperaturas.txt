@@ -1,0 +1,167 @@
+Resumen histórico de temperatura registrada: ###############################################
+
+Temperatura_promedio_por_ciudad_y_mes: 
+   Ciudad  Mes  Temperatura
+   Atenas    1     9.741935
+   Atenas    2    10.107143
+   Atenas    3    12.290323
+   Atenas    4    15.650000
+   Atenas    5    20.596774
+   Atenas    6    23.616667
+   Atenas    7    25.709677
+   Atenas    8    26.241935
+   Atenas    9    23.783333
+   Atenas   10    19.725806
+   Atenas   11    15.483333
+   Atenas   12    11.790323
+Barcelona    1    10.096774
+Barcelona    2    10.750000
+Barcelona    3    12.354839
+Barcelona    4    13.866667
+Barcelona    5    18.322581
+Barcelona    6    21.583333
+Barcelona    7    23.677419
+Barcelona    8    24.354839
+Barcelona    9    22.050000
+Barcelona   10    18.387097
+Barcelona   11    13.083333
+Barcelona   12     9.387097
+   Berlin    1     1.241935
+   Berlin    2     1.982143
+   Berlin    3     5.387097
+   Berlin    4     8.633333
+   Berlin    5    13.967742
+   Berlin    6    16.833333
+   Berlin    7    18.935484
+   Berlin    8    18.516129
+   Berlin    9    14.683333
+   Berlin   10     9.838710
+   Berlin   11     5.166667
+   Berlin   12     3.177419
+  Londres    1     5.387097
+  Londres    2     5.339286
+  Londres    3     7.274194
+  Londres    4     9.516667
+  Londres    5    12.548387
+  Londres    6    16.083333
+  Londres    7    18.451613
+  Londres    8    17.596774
+  Londres    9    15.316667
+  Londres   10    11.467742
+  Londres   11     8.166667
+  Londres   12     5.467742
+   Madrid    1     8.306452
+   Madrid    2     9.500000
+   Madrid    3    12.322581
+   Madrid    4    14.116667
+   Madrid    5    17.919355
+   Madrid    6    22.650000
+   Madrid    7    25.774194
+   Madrid    8    24.274194
+   Madrid    9    21.200000
+   Madrid   10    16.225806
+   Madrid   11    10.500000
+   Madrid   12     7.564516
+    Paris    1     4.403226
+    Paris    2     5.392857
+    Paris    3     7.629032
+    Paris    4    10.266667
+    Paris    5    13.709677
+    Paris    6    16.966667
+    Paris    7    19.048387
+    Paris    8    18.064516
+    Paris    9    15.683333
+    Paris   10    12.274194
+    Paris   11     7.783333
+    Paris   12     4.612903
+     Roma    1     7.919355
+     Roma    2     8.875000
+     Roma    3    10.435484
+     Roma    4    12.866667
+     Roma    5    16.564516
+     Roma    6    20.866667
+     Roma    7    23.387097
+     Roma    8    23.387097
+     Roma    9    21.283333
+     Roma   10    15.645161
+     Roma   11    11.116667
+     Roma   12     7.951613
+    Viena    1    -1.000000
+    Viena    2     0.607143
+    Viena    3     4.000000
+    Viena    4     9.566667
+    Viena    5    13.806452
+    Viena    6    17.950000
+    Viena    7    19.129032
+    Viena    8    19.032258
+    Viena    9    14.866667
+    Viena   10    10.177419
+    Viena   11     4.066667
+    Viena   12     0.887097
+###########################################
+
+Promedio temperatura por ciudad y año 
+   Ciudad  Año  Temperatura
+   Atenas 2021    18.134247
+   Atenas 2022    17.745205
+Barcelona 2021    16.698630
+Barcelona 2022    16.356164
+   Berlin 2021    10.073973
+   Berlin 2022     9.750685
+  Londres 2021    10.991781
+  Londres 2022    11.178082
+   Madrid 2021    15.882192
+   Madrid 2022    15.920548
+    Paris 2021    11.435616
+    Paris 2022    11.271233
+     Roma 2021    15.068493
+     Roma 2022    15.049315
+    Viena 2021     9.350685
+    Viena 2022     9.594521
+###########################################
+
+Promedio temperatura por ciudad 
+   Ciudad  Latitud  Longitud  Temperatura
+   Atenas  37.9838   23.7275    17.939726
+Barcelona  41.3851    2.1734    16.527397
+   Berlin  52.5200   13.4050     9.912329
+  Londres  51.5074   -0.1278    11.084932
+   Madrid  40.4168   -3.7038    15.901370
+    Paris  48.8566    2.3522    11.353425
+     Roma  41.9028   12.4964    15.058904
+    Viena  48.2082   16.3738     9.472603
+###########################################
+
+
+Temperatura maxima 
+   Ciudad  Temperatura
+   Atenas           31
+Barcelona           28
+   Berlin           24
+  Londres           22
+   Madrid           32
+    Paris           23
+     Roma           29
+    Viena           24
+###########################################
+
+
+Temperatura minima
+   Ciudad  Temperatura
+   Atenas            6
+Barcelona            7
+   Berlin           -1
+  Londres            3
+   Madrid            3
+    Paris            2
+     Roma            4
+    Viena           -2
+###########################################
+
+
+Las 5 ciudades mas calurosas 
+   Ciudad  Temperatura
+   Atenas        13096
+Barcelona        12065
+###########################################
+
